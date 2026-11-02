@@ -1,0 +1,22 @@
+# Build
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+
+# Dados gerados em tempo de execução (cada um gera o seu ao rodar)
+dados/
+*.corrompido-*
+
+# Credenciais — NUNCA versionar
+.env
+*.env
+appsettings.*.json
+secrets.json
+
+# Sistema
+.DS_Store
+Thumbs.db
