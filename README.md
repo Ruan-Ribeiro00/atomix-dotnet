@@ -112,8 +112,8 @@ Confira com `dotnet --version`.
 ### Rodar (modo padrão — arquivo JSON)
 
 ```bash
-git clone <url-deste-repositorio>
-cd <pasta-do-repositorio>
+git clone https://github.com/Ruan-Ribeiro00/atomix-dotnet.git
+cd atomix-dotnet
 dotnet run --project src/Atomix.Jogadores
 ```
 
